@@ -5,7 +5,7 @@ a grunt task of [CoffeeLint](http://www.coffeelint.org/)
 ### Overview
 
 ```
-$ grunt coffee lint
+$ grunt coffeelint
 Running "coffeelint:all" (coffeelint) task
 [ 'coffee/*.coffee' ]
 
