@@ -58,7 +58,7 @@ grunt.initConfig({
 
 run `grunt coffeelint`
 ```
-grunt coffeelint:allc
+grunt coffeelint:all
 ```
 
 ### LICENSE
