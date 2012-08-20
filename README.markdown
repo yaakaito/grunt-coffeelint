@@ -1,6 +1,6 @@
 ## grunt coffee lint taks
 
-a grunt task of (CoffeeLint)[http://www.coffeelint.org/]
+a grunt task of [CoffeeLint](http://www.coffeelint.org/)
 
 ### Overview
 
@@ -20,7 +20,7 @@ Done, without errors.
 
 ### Usage
 
-! this grunt-task not managed (npm)[https://npmjs.org/]
+**! this grunt-task not managed [npm](https://npmjs.org/)**
 
 #### install coffeelint
 
